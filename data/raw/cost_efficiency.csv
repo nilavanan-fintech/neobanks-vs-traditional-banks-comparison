@@ -1,0 +1,15 @@
+entity,metric,value,unit,fiscal_year,source,confidence
+HDFC Bank,Cost-to-Income Ratio,40.2,%,FY2023-24,HDFC Bank Q4FY24 investor presentation,official
+HDFC Bank,Operating (non-interest) expenses,63386,INR crore,FY2023-24,Equitymaster FY24 annual report analysis,official
+HDFC Bank,Total operating income (interest+other),407995,INR crore,FY2023-24,Equitymaster FY24 annual report analysis,official
+HDFC Bank,Net profit,64062,INR crore,FY2023-24,Equitymaster FY24 annual report analysis,official
+Jupiter (Amica Financial Technologies),Revenue from operations (parent),35.85,INR crore,FY2023-24,Entrackr Nov 2024,official (RoC filing via press)
+Jupiter (Amica Financial Technologies),Consolidated operating revenue (incl. NBFC arm),51.2,INR crore,FY2023-24,Entrackr Nov 2024,official (RoC filing via press)
+Jupiter (Amica Financial Technologies),Net loss (parent),275.94,INR crore,FY2023-24,Entrackr Nov 2024,official (RoC filing via press)
+Jupiter (Amica Financial Technologies),Net loss (consolidated),233.63,INR crore,FY2023-24,Entrackr Nov 2024,official (RoC filing via press)
+Jupiter (Amica Financial Technologies),Employee benefit expense,195.1,INR crore,FY2023-24,Entrackr Nov 2024,official (RoC filing via press)
+Jupiter (Amica Financial Technologies),Other operating expenses (ex-ESOP),330.1,INR crore,FY2023-24,Entrackr Nov 2024,official (RoC filing via press)
+Jupiter (Amica Financial Technologies),Burn multiple (implied),6.45,ratio,FY2023-24,Entrackr Nov 2024,unverified/approximate (derived by publication)
+Jupiter (Amica Financial Technologies),EBITDA margin,-202.4,%,FY2023-24,Entrackr Nov 2024,unverified/approximate
+Jupiter Money Fintech (NBFC arm, standalone),Revenue,15.4,INR crore,FY2023-24,Entrackr Nov 2024,official (RoC filing via press)
+Jupiter Money Fintech (NBFC arm, standalone),Net profit,1.27,INR crore,FY2023-24,Entrackr Nov 2024,official (RoC filing via press)
