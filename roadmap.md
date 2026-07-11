@@ -22,12 +22,12 @@ Neobanks vs Traditional Banks — 5–6 week project plan. See `README.md` for t
 - **Output:** Clean dataset, sentiment-scored reviews — see `data/processed/` (`reviews_sentiment.csv`, `sentiment_summary.csv`, `cost_efficiency_clean.csv`, `feature_matrix_scored.csv`); pipeline scripts in `notebooks/01_scrape_reviews.py`–`04_feature_matrix.py`
 
 ## Week 4 — Analysis
-- [ ] Compute cost-to-income ratio and burn multiple
-- [ ] Compute CAC
-- [ ] Compute proxy-NPS from sentiment/star-rating split
-- [ ] Compute product-depth score
-- [ ] Compute composite comparison index
-- **Output:** Cost-to-income, CAC, proxy-NPS, product-depth scores
+- [x] Compute cost-to-income ratio and burn multiple
+- [x] Compute CAC
+- [x] Compute proxy-NPS from sentiment/star-rating split
+- [x] Compute product-depth score
+- [x] Compute composite comparison index
+- **Output:** Cost-to-income, CAC, proxy-NPS, product-depth scores — see `data/processed/` (`cost_efficiency_scores.csv`, `cac_signals_clean.csv`, `proxy_nps.csv`, `product_depth_scores.csv`, `composite_index.csv`); pipeline notebooks in `analysis/01_cost_efficiency.ipynb`–`05_composite_index.ipynb`
 
 ## Week 5 — Visualization & story
 - [ ] Build interactive dashboard (Power BI or Tableau Public) with radar chart + trend lines

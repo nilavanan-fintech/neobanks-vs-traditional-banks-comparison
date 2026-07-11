@@ -1,0 +1,11 @@
+entity,metric,value,unit,confidence,ad_spend_intensity_inr_per_customer,basis
+Jupiter,Advertising & promotional expense FY23,74.5,INR crore,official (RoC filing via press),,
+Jupiter,"Users, ~10 months post-launch",1000000.0,users,unverified/approximate,,
+Jupiter,"Users, Oct 2025 (conflicting figure)",300000.0,users,unverified/approximate,,
+Jupiter,Claimed CAC (founder-attributed),5.5,USD/customer (midpoint of $5-6),low-confidence/anecdotal,,
+HDFC Bank,Advertising & publicity expenditure FY24,1259.35,INR crore,official,,
+HDFC Bank,Total customer base (post-merger),120000000.0,customers,official,,
+HDFC Bank,Disclosed per-customer CAC,,USD/customer,confirmed absence,,
+HDFC Bank,,,,proxy — not true CAC,104.95,FY24 ad spend / ~12cr total customers
+Jupiter,,,,proxy — not true CAC,745.0,FY23 ad spend / ~1M users (10mo post-launch estimate)
+Jupiter,,,,proxy — not true CAC,2483.33,FY23 ad spend / ~300K users (Oct 2025 conflicting estimate)

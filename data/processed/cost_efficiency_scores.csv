@@ -1,0 +1,3 @@
+entity,primary_metric,primary_value,primary_unit,confidence,cost_efficiency_score
+HDFC Bank,Cost-to-Income Ratio,40.2,%,official,59.8
+Jupiter,EBITDA margin (burn multiple: 6.45x),-202.4,%,unverified/approximate,0.0

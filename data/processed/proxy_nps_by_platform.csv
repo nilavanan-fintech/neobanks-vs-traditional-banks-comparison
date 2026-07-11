@@ -1,0 +1,5 @@
+entity,platform,n_reviews,pct_promoter,pct_passive,pct_detractor,proxy_nps
+HDFC Bank,app_store,448.0,52.0,6.2,41.7,10.3
+HDFC Bank,google_play,177.0,24.3,4.0,71.8,-47.5
+Jupiter,app_store,495.0,15.6,3.6,80.8,-65.3
+Jupiter,google_play,182.0,39.0,2.7,58.2,-19.2
