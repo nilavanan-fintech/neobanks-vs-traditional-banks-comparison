@@ -16,10 +16,10 @@ Neobanks vs Traditional Banks — 5–6 week project plan. See `README.md` for t
 - **Output:** Raw financials, reviews, survey responses
 
 ## Week 3 — Cleaning & NLP
-- [ ] Clean and normalize financial and survey datasets (`pandas`, `NumPy`)
-- [ ] Run sentiment scoring on reviews (`VADER` / `TextBlob` / HuggingFace model)
-- [ ] Build the feature matrix for product offerings
-- **Output:** Clean dataset, sentiment-scored reviews
+- [x] Clean and normalize financial and survey datasets (`pandas`, `NumPy`)
+- [x] Run sentiment scoring on reviews (`VADER` / `TextBlob` / HuggingFace model)
+- [x] Build the feature matrix for product offerings
+- **Output:** Clean dataset, sentiment-scored reviews — see `data/processed/` (`reviews_sentiment.csv`, `sentiment_summary.csv`, `cost_efficiency_clean.csv`, `feature_matrix_scored.csv`); pipeline scripts in `notebooks/01_scrape_reviews.py`–`04_feature_matrix.py`
 
 ## Week 4 — Analysis
 - [ ] Compute cost-to-income ratio and burn multiple

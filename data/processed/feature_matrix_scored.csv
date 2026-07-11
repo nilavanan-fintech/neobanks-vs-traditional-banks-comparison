@@ -1,0 +1,12 @@
+feature,jupiter,hdfc_bank,notes_source,jupiter_score,hdfc_bank_score
+Savings Account,Yes,Yes,"Jupiter: digital-only account issued via Federal Bank (jupiter.money/savings-account). HDFC: direct savings accounts, multiple variants (hdfc.bank.in).",1.0,1.0
+Fixed Deposit (FD),Yes,Yes,"Jupiter: FDs issued by partner Federal Bank, booked in-app. HDFC: FDs opened/managed directly, digital + branch.",1.0,1.0
+Debit Card,Yes,Yes,"Jupiter: Federal Bank debit card with cashback perks. HDFC: debit card bundled with savings a/c, ATM + insurance benefits.",1.0,1.0
+Credit Card,Partial,Yes,"Jupiter: only a co-branded RuPay Credit Card (lifetime-free, cashback focus). HDFC: full suite of credit cards incl. RuPay UPI Credit Card.",0.5,1.0
+UPI,Yes,Yes,"Jupiter: UPI + RuPay Credit Card UPI linking, 'XtraBoost' feature. HDFC: UPI via NEFT/RTGS/IMPS/UPI stack, RuPay UPI Credit Card.",1.0,1.0
+Personal Loans/Lending,Partial,Yes,"Jupiter: 0% 'Mini Loans' up to INR 50k for salary a/c holders and personal loans up to INR 5L via third-party lending partners, not Jupiter/Federal Bank itself. HDFC: in-house personal, home, and other loans directly.",0.5,1.0
+Investments (MF/Stocks),Partial,Yes,Jupiter: Mutual Funds and Digital Gold (via MMTC-PAMP); no direct stock/demat trading. HDFC: Mutual Fund portfolio access + SmartWealth + Demat/stocks tracking in-app.,0.5,1.0
+Insurance,Partial,Partial,"Jupiter: health insurance launched since 2025 under own IRDAI broker license. HDFC: insurance mainly bundled as debit/credit card benefits, not a core standalone flow.",0.5,0.5
+Forex/International Transactions,Partial,Yes,"Jupiter: 3.5% flat forex fee on international spends/ATM withdrawals; zero markup only for Pro/Salary variants. HDFC: dedicated multi-currency ForexPlus cards (22 currencies, locked FX rates).",0.5,1.0
+Rewards/Cashback,Yes,Yes,"Jupiter: 1% reward on debit/UPI spends, up to 10% cashback via RuPay credit card on select brands. HDFC: reward points/cashback tied to credit and forex cards.",1.0,1.0
+TOTAL / product-depth score,,,,7.5,9.5
