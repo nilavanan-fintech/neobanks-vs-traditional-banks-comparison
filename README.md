@@ -1,5 +1,7 @@
 # Neobanks vs Traditional Banks: A Financial Performance & Customer Experience Comparison
 
+![Project thumbnail](thumbnail.png)
+
 A comparative analytics project benchmarking a digital-first neobank (**Jupiter** or **Fi Money**) against a traditional bank (e.g. **HDFC Bank**, **ICICI Bank**) on four pillars: **cost efficiency**, **customer acquisition cost (CAC)**, **Net Promoter Score (NPS)**, and **product offerings**.
 
 > See `guide.html` for the full illustrated walkthrough. This README is the quick-reference version.

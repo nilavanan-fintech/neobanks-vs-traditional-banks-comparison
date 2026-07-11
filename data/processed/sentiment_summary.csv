@@ -1,5 +1,5 @@
 entity,platform,n_reviews,avg_star_rating,avg_compound,pct_positive,pct_negative
 hdfc_bank,app_store,448,3.179,0.173,53.795,23.884
 hdfc_bank,google_play,177,2.113,-0.153,27.119,50.847
-jupiter,app_store,149,1.698,0.034,45.638,42.282
+jupiter,app_store,495,1.717,-0.027,40.202,47.677
 jupiter,google_play,182,2.571,0.062,49.451,33.516
